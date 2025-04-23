@@ -136,7 +136,6 @@ fieldset[disabled] .btn-default.active {
     background-color: #265a88;
     border-color: #245580;
 }
-
 .btn-primary.disabled,
 .btn-primary[disabled],
 fieldset[disabled] .btn-primary,
